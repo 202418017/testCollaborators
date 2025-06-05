@@ -1,0 +1,7 @@
+total 13
+drwxr-xr-x 1 YUHAN 197121    0 Jun  5 12:10 ./
+drwxr-xr-x 1 YUHAN 197121    0 Jun  5 12:08 ../
+drwxr-xr-x 1 YUHAN 197121    0 Jun  5 12:09 .git/
+-rw-r--r-- 1 YUHAN 197121 7466 Jun  5 12:08 .gitignore
+-rw-r--r-- 1 YUHAN 197121    0 Jun  5 12:10 202407015.txt
+-rw-r--r-- 1 YUHAN 197121   19 Jun  5 12:08 README.md
